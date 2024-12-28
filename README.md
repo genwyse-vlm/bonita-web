@@ -1,5 +1,8 @@
 # Bonita Web
 
+## ⚠️ Discontinued project ⚠️
+This project is now part of bonitasoft/bonita-engine and this repository is now archived.
+
 ## Requirements
 
 >     Java JDK 11
